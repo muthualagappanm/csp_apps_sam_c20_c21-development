@@ -2,7 +2,7 @@
 parent: Harmony 3 peripheral library application examples for SAM C20/C21 family
 title: AC PWM generation
 has_children: false
-has_toc: false
+has_toc: true
 ---
 [![MCHP](https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png)](https://www.microchip.com)
 
