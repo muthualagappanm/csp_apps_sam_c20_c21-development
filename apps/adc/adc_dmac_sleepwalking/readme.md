@@ -1,10 +1,9 @@
 ---
-parent: Harmony 3 peripheral library application examples for SAM C20/C21 family
-title: ADC DMA sleepwalking 
-has_children: false
+title: Harmony 3 peripheral library application examples for SAM C20/C21 family
+nav_order: 1
+has_children: true
 has_toc: false
 ---
-
 [![MCHP](https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png)](https://www.microchip.com)
 
 # ADC DMA sleepwalking
