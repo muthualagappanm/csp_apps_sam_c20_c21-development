@@ -1,6 +1,6 @@
 ﻿---
 title: Harmony 3 peripheral library application examples for SAM C20/C21 family
-nav_order: 1
+parent: Dummy parent
 has_children: true
 has_toc: false
 ---
