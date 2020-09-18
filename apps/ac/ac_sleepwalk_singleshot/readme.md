@@ -1,9 +1,10 @@
 ---
-parent: I am the parent
-title: AC Sleepwalking 
-has_children: false
-has_toc: true
+title: Harmony 3 peripheral library application examples for SAM C20/C21 family
+parent: Dummy parent
+has_children: true
+has_toc: false
 ---
+
 [![MCHP](https://www.microchip.com/ResourcePackages/Microchip/assets/dist/images/logo.png)](https://www.microchip.com)
 
 # AC Sleepwalking
