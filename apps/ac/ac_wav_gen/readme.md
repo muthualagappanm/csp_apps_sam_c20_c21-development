@@ -8,6 +8,15 @@ has_toc: false
 
 # AC PWM generation
 
+Horizontal Line Check
+
+---
+
+Heading Check
+
+Heading Name
+---
+
 This example application shows how to use the Analog Comparator Peripheral library to generate a 1KHz PWM waveform.
 
 ## Description
